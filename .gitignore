@@ -12,3 +12,11 @@
 05_src/db/postgres_data/*
 07_logs/*
 **/07_logs/*
+venv
+.env
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+Thumbs.db
